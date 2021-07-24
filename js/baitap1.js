@@ -22,5 +22,6 @@
 var salaryDate = 100000
 var workDate = 2
 var salaryMonth = 0
+// tính tiền lương
 salaryMonth = salaryDate * 2
 console.log(salaryMonth.toLocaleString())
